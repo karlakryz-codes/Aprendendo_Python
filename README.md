@@ -56,15 +56,24 @@ exercicios/           # Desafios resolvidos para praticar lógica e sintaxe
 bibliotecas/          # Exemplos de uso das principais bibliotecas Python  
 estrutura de dados/   # Implementações de estruturas de dados (vetores, listas, pilhas...)  
 projetos/             # Projetos pessoais e ideias para aprendizado prático  
-📜 Licença
-Este projeto está licenciado sob a licença MIT.
-Veja o arquivo LICENSE para mais detalhes.
+
+
+
+---
+
+## 📜 Licença
+
+Este projeto está licenciado sob a licença **MIT**.  
+Confira o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+---
 
 ⭐ Se você está começando a aprender Python ou quer acompanhar minha evolução, deixe uma estrela no repositório! Sua participação faz toda a diferença.
 
 ✨ “Quem caminha com Jesus nunca anda só.” 🙏
 
 Vamos juntos nessa jornada de aprendizado e crescimento! 🚀
+
 
 
 
