@@ -49,16 +49,16 @@ Sua contribuição será muito bem-vinda!
 
 ---
 
-## 📂 Estrutura do Repositório
 
 ## 📂 Estrutura do Repositório
 
-| Pasta             | Descrição                                          |
-|-------------------|---------------------------------------------------|
-| `exercicios/`     | Desafios resolvidos para praticar lógica e sintaxe|
-| `bibliotecas/`    | Exemplos de uso das principais bibliotecas Python |
-| `estrutura de dados/` | Implementações de estruturas de dados (vetores, listas, pilhas...) |
-| `projetos/`       | Projetos pessoais e ideias para aprendizado prático|
+| Pasta                | Descrição                                                    |
+|----------------------|--------------------------------------------------------------|
+| `exercicios/`        | Desafios resolvidos para praticar lógica e sintaxe           |
+| `bibliotecas/`       | Exemplos de uso das principais bibliotecas Python            |
+| [`estrutura de dados/`](https://github.com/karlakryz-codes/Aprendendo_Python/tree/main/estrutura%20de%20dados) | Implementações de estruturas de dados (vetores, listas, pilhas...) |
+| `projetos/`          | Projetos pessoais e ideias para aprendizado prático          |
+
 
 ---
 
