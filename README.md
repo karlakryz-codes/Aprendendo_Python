@@ -51,13 +51,14 @@ Sua contribuição será muito bem-vinda!
 
 ## 📂 Estrutura do Repositório
 
-```plaintext
-exercicios/           # Desafios resolvidos para praticar lógica e sintaxe  
-bibliotecas/          # Exemplos de uso das principais bibliotecas Python  
-estrutura de dados/   # Implementações de estruturas de dados (vetores, listas, pilhas...)  
-projetos/             # Projetos pessoais e ideias para aprendizado prático  
+## 📂 Estrutura do Repositório
 
-
+| Pasta             | Descrição                                          |
+|-------------------|---------------------------------------------------|
+| `exercicios/`     | Desafios resolvidos para praticar lógica e sintaxe|
+| `bibliotecas/`    | Exemplos de uso das principais bibliotecas Python |
+| `estrutura de dados/` | Implementações de estruturas de dados (vetores, listas, pilhas...) |
+| `projetos/`       | Projetos pessoais e ideias para aprendizado prático|
 
 ---
 
