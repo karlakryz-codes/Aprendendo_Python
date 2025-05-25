@@ -1,80 +1,54 @@
-# Repositório de Estudos em Python 📚🐍
+🐍 Jornada Python da Karla
 
-Este repositório é dedicado ao meu aprendizado de Python e reúne uma série de exercícios, bibliotecas e projetos para aprimorar minhas habilidades. O foco principal é aprender e praticar cada conceito que encontro no caminho, criando uma base sólida e prática.
+Este repositório é dedicado aos meus estudos e prática em Python, reunindo exercícios, projetos e implementações que fazem parte da minha jornada de desenvolvimento na programação. Aqui registro minha evolução, desafios e aprendizados.
 
----
+📚 Conteúdos Disponíveis
+🔗 Estruturas de Dados – Acessar
+Exercícios e desafios para prática de listas, tuplas, dicionários, funções e lógica de programação.
 
-## 📚 Conteúdo do Repositório
+🔗 Bibliotecas Python – Acessar
+Exemplos de uso de bibliotecas populares como NumPy, Pandas, Matplotlib e outras.
 
-- **[exercicios/](exercicios/)**  
-  Desafios resolvidos para praticar lógica e sintaxe.
+🔗 Projetos Práticos – Acessar
+Pequenos projetos para colocar em prática conceitos de programação e automação.
 
-- **[bibliotecas/](bibliotecas/)**  
-  Exemplos de uso das principais bibliotecas Python, como `numpy`, `pandas` e `matplotlib`.
+🚀 Objetivos do Repositório
+Aprimorar minha lógica de programação e resolver desafios.
 
-- **[estrutura de dados/](https://github.com/karlakryz-codes/Aprendendo_Python/tree/main/estrutura%20de%20dados)**  
-  Implementações de estruturas de dados fundamentais: vetores, listas, pilhas, filas e muito mais.
+Explorar bibliotecas para análise de dados e automação.
 
-- **[projetos/](projetos/)**  
-  Projetos pessoais e ideias para aprendizado prático, explorando automação, análise de dados e criação de ferramentas.
+Desenvolver projetos que consolidem o aprendizado.
 
----
+Compartilhar conhecimento e progresso na jornada de desenvolvimento.
 
-## 🚀 Objetivos
+🛠️ Tecnologias e Ferramentas
+Linguagem: Python 🐍
 
-- Aprender e praticar lógica de programação 🤖  
-- Manipular dados e criar visualizações 📊  
-- Automatizar tarefas do dia a dia 🛠  
-- Desenvolver pequenos projetos para fixar o conhecimento 💻  
+Bibliotecas: NumPy, Pandas, Matplotlib, entre outras.
 
----
+Ferramentas: VS Code, Git, GitHub.
 
-## 🧑‍💻 Tecnologias Utilizadas
+🗂️ Estrutura do Repositório
+Pasta	Descrição
+01-Exercicios/	Exercícios resolvidos por tema (ex.: estruturas de dados)
+bibliotecas/	Estudos e aplicações com bibliotecas Python
+projetos/	Projetos práticos para automação e desenvolvimento pessoal
 
-- Python 🐍  
-- Bibliotecas: `numpy`, `pandas`, `matplotlib` e outras  
-- VS Code 💻  
+🤝 Como Contribuir
+💡 Sugira melhorias ou novos desafios na aba Issues.
 
----
+🔧 Envie um Pull Request com correções, melhorias ou novos conteúdos.
 
-## 📝 Como Contribuir
+⭐ Deixe uma estrela se você acha este conteúdo útil ou inspirador.
 
-Se você também ama Python e quer aprender junto, fique à vontade para contribuir! Você pode:
-
-- Abrir **Issues** para sugerir melhorias ou reportar problemas  
-- Fazer **Pull Requests** com novos exercícios, correções ou projetos  
-- Compartilhar ideias de projetos e bibliotecas para explorarmos juntos  
-
-Sua contribuição será muito bem-vinda!
-
----
-
-
-## 📂 Estrutura do Repositório
-
-| Pasta                | Descrição                                                    |
-|----------------------|--------------------------------------------------------------|
-| `exercicios/`        | Desafios resolvidos para praticar lógica e sintaxe           |
-| `bibliotecas/`       | Exemplos de uso das principais bibliotecas Python            |
-| [`estrutura de dados/`](https://github.com/karlakryz-codes/Aprendendo_Python/tree/main/estrutura%20de%20dados) | Implementações de estruturas de dados (vetores, listas, pilhas...) |
-| `projetos/`          | Projetos pessoais e ideias para aprendizado prático          |
-
-
----
-
-## 📜 Licença
-
-Este projeto está licenciado sob a licença **MIT**.  
-Confira o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-⭐ Se você está começando a aprender Python ou quer acompanhar minha evolução, deixe uma estrela no repositório! Sua participação faz toda a diferença.
+📜 Licença
+Este repositório está licenciado sob a Licença MIT – consulte o arquivo LICENSE para mais informações.
 
 ✨ “Quem caminha com Jesus nunca anda só.” 🙏
-
 Vamos juntos nessa jornada de aprendizado e crescimento! 🚀
 
+🌟 Deixe uma estrela ⭐ no repositório para apoiar esse projeto!💖🐍
+                           
 
 
 
