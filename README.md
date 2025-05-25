@@ -14,15 +14,15 @@ Aqui registro minha **evolução, desafios e aprendizados**.
 - 🔗 **[Estruturas de Dados – Acessar](https://github.com/karlakryz-codes/Aprendendo_Python/tree/main/01-Exercicios/Estruturas%20De%20Dados)**  
   Exercícios e desafios para prática de listas, tuplas, dicionários, funções e lógica de programação.
 
-- 🔗 **[Bibliotecas Python – Acessar](https://github.com/karlakryz-codes/Aprendendo_Python/tree/main/bibliotecas)**  
+- 🔗 **[Bibliotecas Python – Acessar](https://github.com/karlakryz-codes/Aprendendo_Python/tree/main/02-Bibliotecas)**  
   Exemplos de uso de bibliotecas populares como `NumPy`, `Pandas`, `Matplotlib` e outras.
 
-- 🔗 **[Projetos Práticos – Acessar](https://github.com/karlakryz-codes/Aprendendo_Python/tree/main/projetos)**  
+- 🔗 **[Projetos Práticos – Acessar](https://github.com/karlakryz-codes/Aprendendo_Python/tree/main/03-Projetos)**  
   Pequenos projetos para colocar em prática conceitos de programação e automação.
 
 ---
 
-## 🚀 Objetivos do Repositório
+## 🚀 Objetivos do Repositório 🐍 
 
 - Aprimorar minha **lógica de programação** e resolver desafios.  
 - Explorar **bibliotecas para análise de dados e automação**.  
@@ -43,9 +43,9 @@ Aqui registro minha **evolução, desafios e aprendizados**.
 
 | Pasta                   | Descrição                                                        |
 |-------------------------|-------------------------------------------------------------------|
-| `01-Exercicios/`        | Exercícios resolvidos por tema (ex.: estruturas de dados)        |
-| `bibliotecas/`          | Estudos e aplicações com bibliotecas Python                      |
-| `projetos/`             | Projetos práticos para automação e desenvolvimento pessoal       |
+| `01-Exercicios`        | Exercícios resolvidos por tema (ex.: estruturas de dados)        |
+| `02-bibliotecas`          | Estudos e aplicações com bibliotecas Python                      |
+| `03-projetos`             | Projetos práticos para automação e desenvolvimento pessoal       |
 
 ---
 
